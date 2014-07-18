@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout << "this is just for testing!" << endl;
+  return 0;
+}
